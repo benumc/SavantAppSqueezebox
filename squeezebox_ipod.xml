@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="racepoint_component_profile.xsd" manufacturer="Squeezebox" model="itunes" device_class="Media_server" unique_identifier="hostname" minimum_component_engine_version="0.0" rpm_xml_version="2.4.5">
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="racepoint_component_profile.xsd" manufacturer="Squeezebox" model="ipod" device_class="Media_server" unique_identifier="hostname" minimum_component_engine_version="0.0" rpm_xml_version="2.4.6">
     <component_properties>
         <media_metadata_available type="squeeze"/>
         <coprocessor_required type="SqueezeboxQuery"/>
